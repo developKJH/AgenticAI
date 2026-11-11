@@ -25,5 +25,17 @@
 
 ## 문서 관리
 
+<details>
+<summary><strong>프롬프트 역설계</strong></summary>
+
+잘 도출된 대화 결과를 분석하여 비슷한 결과를 재현할 수 있는 프롬프트를 도출하는 방법입니다.
+
+1. [프롬프트 역설계의 목적과 원칙](docs/02_PROMPT_REVERSE_ENGINEERING.md#1-목적과-기본-원칙)
+2. [역설계 진행 절차](docs/02_PROMPT_REVERSE_ENGINEERING.md#2-역설계-진행-절차)
+3. [역설계 요청 프롬프트](docs/02_PROMPT_REVERSE_ENGINEERING.md#3-역설계-요청-프롬프트)
+4. [도출한 프롬프트 검증](docs/02_PROMPT_REVERSE_ENGINEERING.md#4-도출한-프롬프트-검증)
+
+</details>
+
 새로운 지침 주제가 추가되면 이 페이지에 동일한 방식으로 접이식 목차를 추가하고,
-세부 내용은 `docs/` 아래의 주제별 Markdown 파일로 관리합니다.
+세부 내용은 주제별 Markdown 파일로 관리합니다.
