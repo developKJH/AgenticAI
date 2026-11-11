@@ -23,17 +23,6 @@
 
 </details>
 
-## 문서 관리
-
-
-<details>
-<summary><strong>현재 레포지토리 관리 프롬프트</strong></summary>
-
-현재 이 지침 저장소의 문서 구조와 파일을 생성·수정·관리할 때 사용하는 프롬프트입니다.
-
-1. [레포지토리 관리 프롬프트](docs/00_REPOSITORY_MANAGEMENT.md#현재-레포지토리의-생성-및-관리-프롬프트)
-
-</details>
 
 <details>
 <summary><strong>프롬프트 역설계</strong></summary>
@@ -46,6 +35,20 @@
 4. [도출한 프롬프트 검증](docs/02_PROMPT_REVERSE_ENGINEERING.md#4-도출한-프롬프트-검증)
 
 </details>
+
+## 문서 관리
+
+
+<details>
+<summary><strong>현재 레포지토리 관리 프롬프트</strong></summary>
+
+현재 이 지침 저장소의 문서 구조와 파일을 생성·수정·관리할 때 사용하는 프롬프트입니다.
+
+1. [레포지토리 관리 프롬프트](docs/00_REPOSITORY_MANAGEMENT.md#현재-레포지토리의-생성-및-관리-프롬프트)
+
+</details>
+
+
 
 새로운 지침 주제가 추가되면 이 페이지에 동일한 방식으로 접이식 목차를 추가하고,
 세부 내용은 주제별 Markdown 파일로 관리합니다.
