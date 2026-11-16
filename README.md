@@ -47,6 +47,11 @@ Codex가 프로젝트 작업을 수행할 때 지속적으로 참고해야 하�
 3. [작성 원칙](docs/AGENTS_md.md#3-작성-원칙)
 4. [AGENTS.md와 Memories의 차이](docs/AGENTS_md.md#4-agentsmd와-memories의-차이)
 5. [AGENTS.md 검증 및 유지관리](docs/AGENTS_md.md#5-agentsmd-검증-및-유지관리)
+6. [AGENTS.md 계층과 우선순위](docs/AGENTS_md.md#6-agentsmd-계층과-우선순위)
+
+<strong>참고사항</strong>
+* [지침 파일 크기 제한](docs/AGENTS_md.md#a-지침-파일-크기-제한)
+* [Fallback 파일명 설정](docs/AGENTS_md.md#AGENTS_md.md#b-fallback-파일명-설정)   
 
 </details>
 
