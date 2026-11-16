@@ -38,6 +38,20 @@ Codex의 모델, 추론 강도, 샌드박스, 승인 정책 및 기능을 설정
 </details>
 
 <details>
+<summary><strong>AGENTS.md</strong></summary>
+
+Codex가 프로젝트 작업을 수행할 때 지속적으로 참고해야 하는 지침을 정의하는 파일입니다.
+
+1. [AGENTS.md 작성 방법](docs/AGENTS_md.md#1-agentsmd-작성-방법)
+2. [작성할 내용](docs/AGENTS_md.md#2-작성할-내용)
+3. [작성 원칙](docs/AGENTS_md.md#3-작성-원칙)
+4. [AGENTS.md와 Memories의 차이](docs/AGENTS_md.md#4-agentsmd와-memories의-차이)
+5. [AGENTS.md 검증 및 유지관리](docs/AGENTS_md.md#5-agentsmd-검증-및-유지관리)
+
+</details>
+
+
+<details>
 <summary><strong>프롬프트 역설계</strong></summary>
 
 잘 도출된 대화 결과를 분석하여 비슷한 결과를 재현할 수 있는 프롬프트를 도출하는 방법입니다.
